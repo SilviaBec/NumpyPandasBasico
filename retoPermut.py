@@ -25,6 +25,8 @@ perK= set(itertools.combinations(k,1))
 
 for val in perI:
     print(val)
+for val in perJ:
+    print(val)
 #     if val[0]+val[1]+val[2]!=n:
 #         print(val)
 
